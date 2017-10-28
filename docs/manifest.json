@@ -1,7 +1,7 @@
 {
   "name": "Basher Stencil",
   "short_name": "basher",
-  "start_url": "/",
+  "start_url": "/stencil-app/",
   "display": "standalone",
   "icons": [{
     "src": "assets/icon/icon.png",
