@@ -3,7 +3,7 @@
   "components": [
     [
       "my-name",
-      "my-name",
+      "zgrylv5o",
       1,
       [
         [
@@ -22,7 +22,7 @@
     ],
     [
       "stencil-async-content",
-      "stencil-async-content",
+      "dz0zxx6l",
       0,
       [
         [
@@ -39,7 +39,7 @@
     ],
     [
       "stencil-route",
-      "stencil-async-content",
+      "dz0zxx6l",
       0,
       [
         [
@@ -100,7 +100,7 @@
     ],
     [
       "stencil-route-link",
-      "stencil-async-content",
+      "dz0zxx6l",
       0,
       [
         [
@@ -157,7 +157,7 @@
     ],
     [
       "stencil-route-title",
-      "stencil-async-content",
+      "dz0zxx6l",
       0,
       [
         [
@@ -177,7 +177,7 @@
     ],
     [
       "stencil-router",
-      "stencil-async-content",
+      "dz0zxx6l",
       0,
       [
         [
@@ -209,7 +209,7 @@
     ],
     [
       "stencil-router-redirect",
-      "stencil-async-content",
+      "dz0zxx6l",
       0,
       [
         [
@@ -229,11 +229,11 @@
     ],
     [
       "test-app",
-      "test-app"
+      "l3dk4lkb"
     ],
     [
       "test-demo-four",
-      "test-app",
+      "l3dk4lkb",
       0,
       [
         [
@@ -258,7 +258,7 @@
     ],
     [
       "test-demo-six",
-      "test-app",
+      "l3dk4lkb",
       0,
       [
         [
@@ -283,7 +283,7 @@
     ],
     [
       "test-demo-three",
-      "test-app",
+      "l3dk4lkb",
       0,
       [
         [
@@ -309,6 +309,6 @@
   ],
   "loader": "../app.js",
   "global": "app.global.js",
-  "core": "app.core.js",
-  "corePolyfilled": "app.core.pf.js"
+  "core": "app.ldpuklsb.js",
+  "corePolyfilled": "app.ubbz8hou.pf.js"
 }
